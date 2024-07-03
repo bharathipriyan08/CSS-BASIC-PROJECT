@@ -871,12 +871,14 @@ Contact code:
 
 ```
 # OUTPUT
-![image](https://github.com/bharathipriyan08/CSS-BASIC-PROJECT/assets/113762012/a0950479-1758-4eb8-8182-b8a985720edb)
+![image](https://github.com/bharathipriyan08/CSS-BASIC-PROJECT/assets/113762012/4b72eb6a-cc79-4db2-8ac1-b26a4899b432)
+
 
 ![image](https://github.com/bharathipriyan08/CSS-BASIC-PROJECT/assets/113762012/b876e5f7-3fd2-412b-91d2-4bb4de23aa3a)
 
 ![image](https://github.com/bharathipriyan08/CSS-BASIC-PROJECT/assets/113762012/64018096-a042-4b08-aa71-ee23dceb4909)
 
-![image](https://github.com/bharathipriyan08/CSS-BASIC-PROJECT/assets/113762012/61ffe82b-04fe-444f-850d-104674ad5148)
+![image](https://github.com/bharathipriyan08/CSS-BASIC-PROJECT/assets/113762012/2b035dc8-76a8-4467-9476-0c9d011933f1)
+
 
 
